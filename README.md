@@ -62,7 +62,7 @@ MySQL: Relational database design
 
 MVC Pattern: DAO, Models, Utils layers
 
-### ![Screenshot 2025-05-14 211147](https://github.com/user-attachments/assets/d62aed1a-51bd-4519-9d75-3a91da7e546b)
+
 📂 Project Structure
 ```src/
 ├── com.hospital_management_system/
@@ -99,3 +99,6 @@ java com.hospital_management_system.operations.Main
 ✅ Error Handling: Input validation, transaction rollbacks
 
 ✅ CLI Development: User-friendly interfaces
+
+🔗 Connect with me on [[LinkedIn]](https://www.linkedin.com/in/akshansh-sharma-a47778278/)
+[[Email]](98akshansh@gamil.com)
